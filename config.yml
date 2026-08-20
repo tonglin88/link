@@ -18,8 +18,7 @@ title: "Marcellise | Style From the Ground Up"
 avatar: "./images/profile.jpeg"
 name: "Marcellise"
 tagline: >-
-  Expressive hosiery for every mood—distinctive tights, socks, and legwear
-  designed to finish the look or become the point entirely.
+  Expressive hosiery made to finish the look—or become the point.
 
 # -----------------------------------------------------------------------------
 # Main links
@@ -80,8 +79,7 @@ socials:
 # Footer
 # -----------------------------------------------------------------------------
 footer: >-
-  Style starts with the details. Discover expressive hosiery and follow
-  Marcellise for new arrivals, styling inspiration, and more.
+  Follow Marcellise for new arrivals and styling inspiration.
 
 copyright: >-
   © {{ year }} Marcellise. All rights reserved.
