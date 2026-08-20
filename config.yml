@@ -22,16 +22,30 @@ tagline: >-
   designed to finish the look or become the point entirely.
 
 # -----------------------------------------------------------------------------
-# Main link
+# Main links
 # -----------------------------------------------------------------------------
 links:
   - link:
-      icon: "fa-solid fa-bag-shopping"
-      text: "Shop Marcellise"
+      icon: "fa-solid fa-store"
+      text: "Official Store"
       url: "https://marcellise.com"
       alt: "Shop tights, socks, and legwear at Marcellise"
       title: "Visit the Marcellise official store"
       target: "_blank"
+  - link:
+      icon: "fa-brands fa-facebook-messenger"
+      text: "Chat on Messenger"
+      url: "https://m.me/1125885443948070"
+      alt: "Chat with Marcellise on Messenger"
+      title: "Chat with Marcellise on Messenger"
+      target: "_blank"
+  - link:
+      icon: "fa-solid fa-envelope"
+      text: "Customer Support Email"
+      url: "mailto:support@marcellise.com"
+      alt: "Email Marcellise customer support"
+      title: "Email support@marcellise.com"
+      target: "_self"
 
 # -----------------------------------------------------------------------------
 # Social channels
@@ -40,19 +54,25 @@ socials:
   - social:
       icon: "fa-brands fa-instagram"
       url: "https://www.instagram.com/marcelliseofficial/"
-      title: "Follow Marcellise on Instagram"
+      title: "Instagram"
       alt: "Marcellise on Instagram"
+      target: "_blank"
+  - social:
+      icon: "fa-brands fa-tiktok"
+      url: "https://www.tiktok.com/@marcelliseofficial"
+      title: "TikTok"
+      alt: "Marcellise on TikTok"
       target: "_blank"
   - social:
       icon: "fa-brands fa-facebook-f"
       url: "https://www.facebook.com/people/Marcellise/61588597782988/"
-      title: "Follow Marcellise on Facebook"
+      title: "Facebook"
       alt: "Marcellise on Facebook"
       target: "_blank"
   - social:
       icon: "fa-brands fa-threads"
       url: "https://www.threads.net/@marcelliseofficial"
-      title: "Follow Marcellise on Threads"
+      title: "Threads"
       alt: "Marcellise on Threads"
       target: "_blank"
 
