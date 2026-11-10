@@ -46,6 +46,14 @@ links:
       title: "Email support@marcellise.com"
       target: "_self"
 
+  - link:
+      icon: "fa-solid fa-truck-fast"
+      text: "Track Your Order"
+      url: "https://www.marcellise.com/apps/track123?utm_source=linkyee&utm_medium=bio&utm_campaign=brand_hub&utm_content=track_order_btn"
+      alt: "Track Your Marcellise Order"
+      title: "Track Your Marcellise Order"
+      target: "_blank"
+
 # -----------------------------------------------------------------------------
 # Social channels
 # -----------------------------------------------------------------------------
